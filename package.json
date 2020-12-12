@@ -1,0 +1,19 @@
+{
+  "name": "book-service",
+  "version": "1.0.0",
+  "engines": {
+    "node": "11.6"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Akshay",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.16.4",
+    "uuid": "^3.3.2"
+  }
+}
